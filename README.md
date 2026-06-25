@@ -1,6 +1,14 @@
 # Multi-Platform E-Commerce Web Application
 Full-stack portfolio project aligned to ANZSCO 261312 (Developer Programmer).
 
+## Portfolio Context
+- Full ANZSCO 261312 portfolio landing page: [projects-workspaces](https://github.com/jen-the-dev/projects-workspaces)
+- Application cover letter template: [cover-letter-anzsco-261312.md](https://github.com/jen-the-dev/cicd-automated-infrastructure/blob/main/cover-letter-anzsco-261312.md)
+- Related core showcase repositories:
+  - [cloud-native-task-management-api](https://github.com/jen-the-dev/cloud-native-task-management-api)
+  - [realtime-data-streaming-dashboard](https://github.com/jen-the-dev/realtime-data-streaming-dashboard)
+  - [cicd-automated-infrastructure](https://github.com/jen-the-dev/cicd-automated-infrastructure)
+
 ## Problem
 Retail platforms need a coherent architecture that connects frontend UX, backend business logic, and secure payment integration without sacrificing maintainability.
 
