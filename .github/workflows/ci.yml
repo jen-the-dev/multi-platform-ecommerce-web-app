@@ -17,6 +17,7 @@ jobs:
           node-version: "20"
       - run: npm install
       - run: npm run check
+      - run: npm test
 
   web-check:
     runs-on: ubuntu-latest
